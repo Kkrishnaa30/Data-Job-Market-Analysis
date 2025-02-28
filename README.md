@@ -7,17 +7,10 @@ This repository contains all necessary files to explore, modify, and extend the 
 
 ---
 
-## 🎬 **Project Preview**  
-To get a quick overview of the dashboard, check out the **preview video**:  
-📂 **Project_Preview.mp4** – A short demonstration of the Power BI dashboard and its features.  
-
----
-
 ## 📂 **Project Files**  
 The repository includes the following files:  
 
 - **Dashboard.pbix** – The Power BI file containing the complete analysis and interactive dashboards.  
-- **Project_Docs.pdf** – Comprehensive documentation covering all project steps, data definitions, and insights.  
 - **eda_data.csv & glassdoor_jobs.csv** – The raw datasets used for analysis.  
 - **Cleaned_Jobs.csv** – The dataset after data cleaning and preprocessing in **Power Query**.  
 
